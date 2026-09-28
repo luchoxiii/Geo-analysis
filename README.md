@@ -1,6 +1,10 @@
-# Geo-Analisis
+# 🌎 Geo Analysis
 
-Documentacion
+Repositorio personal de aprendizaje y referencia sobre **análisis geoespacial con Python**.
+
+Incluye documentación, notebooks, ejemplos prácticos y recursos para trabajar con
+datos vectoriales, raster, mapas interactivos y plataformas de análisis geoespacial.
+
 
 - [Documentacion](https://github.com/luchoxiii/Geo-analysis/tree/main/Documentacion)
 

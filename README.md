@@ -26,3 +26,4 @@ Canales de Youtube
 
 - [Google Earth Engine](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3)
 - [GeoSpatial](https://www.youtube.com/watch?v=0mWgVVH_dos)
+- [Milan Data Stories](https://www.youtube.com/@milanjanosov/videos)
